@@ -1,2 +1,2 @@
 # certainimage
-image logger for educational purposes only
+image for educational purposes only
